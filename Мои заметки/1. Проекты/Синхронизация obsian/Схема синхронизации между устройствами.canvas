@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"cb4b24bdac839821","x":-260,"y":60,"width":250,"height":60,"color":"4","type":"text","text":"GIT (асинхронно)"},
+		{"id":"184ca3b243838163","x":-260,"y":-460,"width":250,"height":60,"type":"text","text":"Syncthing-канал"},
+		{"id":"df79fd8912e82ee2","x":-260,"y":-400,"width":250,"height":60,"color":"1","type":"text","text":"-ios"},
+		{"id":"60794eb85ee3dbfb","x":200,"y":-280,"width":250,"height":60,"type":"text","text":"Телефон"},
+		{"id":"6b5821b2a00a9d6f","type":"text","text":"Obsidian","x":200,"y":-160,"width":250,"height":60},
+		{"id":"2132bc04c0d5ec86","x":-600,"y":-160,"width":250,"height":60,"type":"text","text":"Obsidian"},
+		{"id":"25adfcb116a7d4cb","x":-600,"y":-280,"width":250,"height":60,"type":"text","text":"Комп"}
+	],
+	"edges":[
+		{"id":"4444a50bafcb9e4e","fromNode":"25adfcb116a7d4cb","fromSide":"bottom","toNode":"2132bc04c0d5ec86","toSide":"top"},
+		{"id":"838425fc3eafa545","fromNode":"60794eb85ee3dbfb","fromSide":"bottom","toNode":"6b5821b2a00a9d6f","toSide":"top"},
+		{"id":"04eafbbd3b142be4","fromNode":"2132bc04c0d5ec86","fromSide":"bottom","toNode":"cb4b24bdac839821","toSide":"left","color":"4","label":"данные"},
+		{"id":"be5cd9ea7bd3c2b4","fromNode":"6b5821b2a00a9d6f","fromSide":"bottom","toNode":"cb4b24bdac839821","toSide":"right","color":"4","label":"данные"},
+		{"id":"76e3e1624d1ac752","fromNode":"cb4b24bdac839821","fromSide":"top","toNode":"2132bc04c0d5ec86","toSide":"right","color":"4","label":"данные"},
+		{"id":"4877f77a5b485e2d","fromNode":"cb4b24bdac839821","fromSide":"top","toNode":"6b5821b2a00a9d6f","toSide":"left","color":"4","label":"данные"},
+		{"id":"6d43b576fa97d14e","fromNode":"25adfcb116a7d4cb","fromSide":"top","toNode":"184ca3b243838163","toSide":"left","fromEnd":"arrow","label":"данные"},
+		{"id":"4bd442f687755b22","fromNode":"184ca3b243838163","fromSide":"right","toNode":"60794eb85ee3dbfb","toSide":"top","fromEnd":"arrow","label":"данные"}
+	]
+}

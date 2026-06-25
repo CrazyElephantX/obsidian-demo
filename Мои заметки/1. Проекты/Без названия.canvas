@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"8f00ec5eba844664","x":-240,"y":-300,"width":250,"height":50,"type":"text","text":""},
+		{"id":"242e2eff1810b7d6","x":40,"y":200,"width":400,"height":400,"type":"file","file":"1. Проекты/2026-03-01 Заметки со вастречи.md"},
+		{"id":"859e9e73b5894a05","x":-365,"y":-40,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"fcff153d05a3c550","fromNode":"8f00ec5eba844664","fromSide":"bottom","toNode":"859e9e73b5894a05","toSide":"top"}
+	]
+}
