@@ -1,0 +1,74 @@
+{
+  "settings": {
+    "displayIndividualItems": false,
+    "showNotes": true,
+    "showWords": true,
+    "showLinks": true,
+    "showTags": true,
+    "showQuality": true,
+    "showOwn": true,
+    "showSource": true,
+    "showOwnPct": true,
+    "showSourcePct": true,
+    "showConcepts": false,
+    "showOrphans": true,
+    "showTracePct": true,
+    "showSourcesTrace": false,
+    "showDanglingList": true,
+    "excludedFolders": [],
+    "ownTags": [
+      "thought",
+      "synthesis",
+      "fleeting"
+    ],
+    "sourceTags": [
+      "book",
+      "article",
+      "video",
+      "lecture",
+      "literature",
+      "literature-note"
+    ],
+    "conceptTags": [
+      "concept"
+    ],
+    "folderGroups": [],
+    "showFolderBreakdown": false,
+    "historyExportFolder": "",
+    "canonicalTags": [],
+    "rareTagThreshold": 3,
+    "showTaxonomyDrift": false,
+    "showHistory": false,
+    "showInbox": false,
+    "inboxFolders": [],
+    "inboxReviewTags": [
+      "inbox/review"
+    ],
+    "metricsShowLinks": true,
+    "metricsShowTags": true,
+    "metricsShowConcepts": true,
+    "metricsShowOrphans": true,
+    "metricsShowAvgWords": true,
+    "tanglesMode": "and",
+    "tanglesMinIn": 5,
+    "tanglesMinOut": 5,
+    "tanglesMinTotal": 10,
+    "tanglesTopN": 25,
+    "tanglesReportFolder": "",
+    "tanglesExclude": []
+  },
+  "history": [
+    {
+      "date": "2026-08-02",
+      "notes": 22,
+      "links": 14,
+      "tags": 1,
+      "ownNotes": 0,
+      "sourceNotes": 0,
+      "conceptNotes": 0,
+      "orphanNotes": 14,
+      "sourcesWithTrace": 0,
+      "words": 399
+    }
+  ]
+}
