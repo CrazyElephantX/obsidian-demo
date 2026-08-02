@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f99ea8af3bf0595a","x":0,"y":-250,"width":400,"height":400,"type":"file","file":"4. Архивы/Шаблоны/Ежедневная заметка.md"},
+		{"id":"cc8d2694e4c083e7","x":-471,"y":0,"width":343,"height":400,"type":"file","file":"4. Архивы/Файлы/мем_у меня два пути.jpg"},
+		{"id":"c208f7fb7ff80004","x":-378,"y":-280,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"b117c0efd3c4cad8","fromNode":"c208f7fb7ff80004","fromSide":"bottom","toNode":"cc8d2694e4c083e7","toSide":"top"},
+		{"id":"c1b9756683d16281","fromNode":"c208f7fb7ff80004","fromSide":"right","toNode":"f99ea8af3bf0595a","toSide":"left"}
+	]
+}
