@@ -4,15 +4,24 @@ kanban-plugin: board
 
 ---
 
-## Канбан
+## Бэклог
 
-- [ ] Задача тест
+
+
+## В работе
+
+
+
+## Готово
+
+**Выполнено**
+- [x] Задача тест ✅ 2026-10-18
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false]}
 ```
 %%
