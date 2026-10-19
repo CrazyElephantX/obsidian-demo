@@ -1,5 +1,7 @@
 {
   "settings": {
+    "language": "en",
+    "heroLabelsInEnglish": false,
     "displayIndividualItems": false,
     "showNotes": true,
     "showWords": true,
@@ -21,6 +23,7 @@
       "synthesis",
       "fleeting"
     ],
+    "ownFolders": [],
     "sourceTags": [
       "book",
       "article",
@@ -29,9 +32,11 @@
       "literature",
       "literature-note"
     ],
+    "sourceFolders": [],
     "conceptTags": [
       "concept"
     ],
+    "conceptFolders": [],
     "folderGroups": [],
     "showFolderBreakdown": false,
     "historyExportFolder": "",
@@ -81,6 +86,18 @@
       "orphanNotes": 16,
       "sourcesWithTrace": 0,
       "words": 489
+    },
+    {
+      "date": "2026-10-19",
+      "notes": 25,
+      "links": 15,
+      "tags": 2,
+      "ownNotes": 0,
+      "sourceNotes": 0,
+      "conceptNotes": 0,
+      "orphanNotes": 17,
+      "sourcesWithTrace": 0,
+      "words": 515
     }
   ]
 }
